@@ -1,0 +1,5 @@
+{
+  "name": "Jellyfin Deduplicator",
+  "description": "A powerful utility to scan your Jellyfin library, identify duplicate movies based on metadata, and allow for easy comparison and deletion of redundant files.",
+  "requestFramePermissions": []
+}
