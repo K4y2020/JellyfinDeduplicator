@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1x2azP0yW6L_ZGMiiGrtV1tZIdTJK8fhb
+Gemini自动编写的JELLYFIN重复文件扫描，更优雅的管理你的媒体库
 
 ## Run Locally
 
